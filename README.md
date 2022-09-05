@@ -1,6 +1,6 @@
 
 <h1> Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">, I'm Aman Chaturvedi <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="50"></h1>
-<img align='right' src="https://pin.it/30dDNkp" width="230">
+<img align='right' src="git.png" width="230">
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media2.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif?cid=ecf05e47q75x7p9q847d4btc3zxqqmppe8gn7jj2j3sajwtk&rid=giphy.gif&ct=s" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on web development</a><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="30"> 
 </em></p>
 
