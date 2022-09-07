@@ -21,7 +21,7 @@ global Aman = {
   'tools': [Node.js, OpenCV, Bootstrap],
   'architecture': ["IDK"],
 
-  'challenge': "Productivity and Passion, Developing Tools to build Atomic structure"
+  'challenge': "Productivity and Passion, To overcome the  resistance and drag of society"
   'what do I like other than coding?': "Reading Books, Singing, Exploring, Taking-challenges"
 }
 ```
