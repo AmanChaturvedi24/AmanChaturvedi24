@@ -5,7 +5,7 @@
 </em></p>
 
 <a href="https://www.linkedin.com/in/aman-chaturvedi-0509601bb/">
-  <img align="left" alt="Aman Chaturvedi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aman Chaturvedi's LinkedIN" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
